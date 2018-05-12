@@ -1,0 +1,37 @@
+_repo: Clara-Vaughan-Volume-III--of-III-_41022
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41022-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Blackmore, R. D. (Richard Doddridge)
+    alias: Blackmore, Richard Doddridge
+    birthdate: 1825
+    deathdate: 1900
+    gutenberg_agent_id: '439'
+    url: http://www.gutenberg.org/2009/agents/439
+    wikipedia: http://en.wikipedia.org/wiki/R._D._Blackmore
+description: "Clara Vaughan is a sensation novel by R. D. Blackmore, who was later\
+  \ to achieve lasting fame for another Romantic novel, Lorna Doone. It was written\
+  \ in 1853 and published anonymously in 1864. It was Blackmore's first novel. The\
+  \ novel was generally well received by the public, though some reviewers at the\
+  \ time believed it to have been written by Mary Elizabeth Braddon and criticised\
+  \ its author for not knowing about the law.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2012-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41022'
+  wikidata: Q5126057
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery fiction'
+- !lcc 'PR'
+- !lcsh 'Murder victims'' families -- Fiction'
+title: Clara Vaughan, Volume 3 (of 3)
+url: http://www.gutenberg.org/ebooks/41022
+wikipedia:
+- https://en.wikipedia.org/wiki/Clara_Vaughan
